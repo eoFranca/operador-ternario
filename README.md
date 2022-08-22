@@ -1,0 +1,3 @@
+# operador-ternario
+Estruturas de decisão (Operador Ternário)
+exercicios....
